@@ -106,7 +106,7 @@
 
 ### Comments
 - :x: DO NOT: use comments unless they describe something that is not obvious to someone other than the developer who wrote the code.
- favor writing clearer code over entering comments to clarify a complicated algorithm.
+- :heavy_check_mark: DO: favor writing clearer code over entering comments to clarify a complicated algorithm.
 - :heavy_check_mark: DO: provide XML comments on public APIs when they provide more context than the API signature alone. This includes member descriptions, parameter descriptions, and examples of calling the API.
 
 ### Whitespace
